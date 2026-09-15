@@ -1,26 +1,15 @@
-# Pratik.
+Hey, I'm Pratik Koirala 👋
 
+
+🚀 What I Build
+🌐 Full-stack web applications
+🏛️ Civic-tech & transparency platforms
+🇳🇵 Nepal-focused digital solutions
+📊 Data-driven systems
+🤖 AI/ML-powered ideas
 > building things, breaking things, learning things.
 
-💻 Developer
-🧠 Curious about tech, systems & ideas
-🌐 Somewhere between code and chaos
-
-I make things I find interesting.
-
-**Currently:** learning → building → repeating.
-
----
-
-### `status`
-
-```txt
-[██████████████████░░] 90%
-```
-
-Still loading...
-
----
+💻  PHP, MERN & PERN
 
 📍 Nepal
-🌙 `sunset00x`
+sunset00x (github & linkedin)
