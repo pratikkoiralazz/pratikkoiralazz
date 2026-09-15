@@ -6,11 +6,11 @@
 
 ## 🚀 What I Build
 
-🌐 Full-stack web applications
-🏛️ Civic-tech & transparency platforms
-🇳🇵 Nepal-focused digital solutions
-📊 Data-driven systems
-🤖 AI/ML-powered ideas
+- 🌐 Full-stack web applications
+- 🏛️ Civic-tech & transparency platforms
+- 🇳🇵 Nepal-focused digital solutions
+- 📊 Data-driven systems
+- 🤖 AI/ML-powered ideas
 
 
 
