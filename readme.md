@@ -22,4 +22,4 @@
 📍 **Nepal**
 
 
- **sunset00x( GitHub & LinkedIn)**
+ **pratikkoiralazz( GitHub & LinkedIn)**
